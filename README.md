@@ -1,5 +1,7 @@
 # unity-photo-movie-maker
-Timelineを使用したスライドショー作成サンプルです。
+Unity Timelineを使用したスライドショー作成サンプルです。<br>
+Excelベースで画像含めたパラメータを調整することができます。<br>
+アニメーションに関してはDOTweenを使用して制御する構成となっています。(現状は移動、フェードのみ)
 
 <img src="ReadMeContents/01_SlideSample_01.png" width="600" alt=""/>
 
