@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a96044f3877451daab51843664d4b6, type: 3}
+  m_Name: MstSlideData
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: SlideDataSheet
+    list:
+    - Frame: 0.2
+      TexturePath: '-'
+      Message: "\u30DA\u30C3\u30C8\u306E\u7D39\u4ECB"
+      PositionX: 0
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 1
+      ShowDuration: 2
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35
+    - Frame: 2.5
+      TexturePath: Slide/Slide_01_01
+      Message: '-'
+      PositionX: -0.35
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 0.5
+      ShowDuration: 2.2
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35
+    - Frame: 5
+      TexturePath: Slide/Slide_01_02
+      Message: '-'
+      PositionX: -0.35
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 0.5
+      ShowDuration: 2.2
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35
+    - Frame: 2.5
+      TexturePath: '-'
+      Message: "\u304B\u308F\u3044\u3044\u30CD\u30B3"
+      PositionX: 0.55
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 1
+      ShowDuration: 4.7
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35
+    - Frame: 7.5
+      TexturePath: Slide/Slide_01_03
+      Message: '-'
+      PositionX: -0.35
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 0.5
+      ShowDuration: 2.2
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35
+    - Frame: 10
+      TexturePath: Slide/Slide_01_04
+      Message: '-'
+      PositionX: -0.35
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 0.5
+      ShowDuration: 2.7
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35
+    - Frame: 7.5
+      TexturePath: '-'
+      Message: "\u3082\u3075\u3082\u3075\u3067\u3059"
+      PositionX: 0.55
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 1
+      ShowDuration: 5.2
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35
+    - Frame: 13
+      TexturePath: '-'
+      Message: "\u304A\u308F\u308A"
+      PositionX: 0
+      PositionY: 0
+      MoveSpeedX: 0
+      MoveSpeedY: 0
+      Scale: 1
+      ShowDuration: 2
+      FadeInDuration: 0.35
+      FadeOutDuration: 0.35

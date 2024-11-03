@@ -1,0 +1,2734 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9190326676229311180
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_3
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 5
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: 52bba5c1825494337ad9972842522b5e, type: 2}
+    m_Duration: 2.2
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -9190326676229311180}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-8856442335597184041
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-8635968803735045950
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-7678197713352246992
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-7500521880455381383
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-7081507565622245178
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-7081255780818714642
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-6311713101242353536
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-6273929453360457818
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-6119064152639870480
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-5913946724923431440
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-5763769379642906762
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-4995684887514072943
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_2
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 2.5
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: bc4d9a34099824306978a990384dcad2, type: 2}
+    m_Duration: 2.2
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -4995684887514072943}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-4835221774927819935
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-4675084247615395273
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-4417781438082635159
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-4297611404156746527
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_7
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 7.5
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: c040d008430404fb4918ad428c09a7c1, type: 2}
+    m_Duration: 5.2
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -4297611404156746527}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-4049340930546746492
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-3879785708871842920
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-3815372251028362591
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-3044295188707022929
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-2952151064372839185
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-2815109464974284800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-2564745979389169511
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_8
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 13
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: 577cf1e13d363472a8276bb1f93df45d, type: 2}
+    m_Duration: 2
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -2564745979389169511}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &-2457001045859849218
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-2416752504288494669
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-1572723238393954491
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-1422971688549792424
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-1295563524196953736
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-1082305090132901023
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-986490140727478924
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-549222952424187498
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &-70880305144406563
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+  m_Name: SlideTimeline
+  m_EditorClassIdentifier: 
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 7776983058811372531}
+  - {fileID: -4995684887514072943}
+  - {fileID: -9190326676229311180}
+  - {fileID: 6562176137786331105}
+  - {fileID: 7082468136873644154}
+  - {fileID: 8028311676234667900}
+  - {fileID: -4297611404156746527}
+  - {fileID: -2564745979389169511}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 0}
+--- !u!114 &73621361732072277
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &131022385030074649
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &137128720412110162
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &276573609764598437
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &418506732116707231
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &596297228500392458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &703866885519057412
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &912750204821942494
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1020057279479571480
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1060556259963488689
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1083097577728616898
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1106042450165796683
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1119516276431828621
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1151960724786856096
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1383288891206559528
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1817119392321141170
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1940607400289478106
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &1981742112046200449
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &2021195780385151099
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &2115677709150082967
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &2274954546798123558
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &2374771168743821913
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &2680626986184527469
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &3155993536002711092
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &3547985933181542469
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &3579826327386129873
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &3999769732521024127
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &4054371590273604609
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &4216910293452731775
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &4424423424160778380
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &4561438599060152208
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &4655347111405018235
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &4949786879741081966
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &5441054656348499279
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &5448520587416324749
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &5495025643967590861
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &5508964284009190184
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &5606269599903735481
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6132623708423548475
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6140482834738056972
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6375778386732062993
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6432064014464708819
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6562176137786331105
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_4
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 2.5
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: 89695541e6db6443d9f7fc87b4cdfd40, type: 2}
+    m_Duration: 4.7
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 6562176137786331105}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &6674263211025950681
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6730669235446168919
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6826705773920965597
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6983237860167743437
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &6999438679433145383
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &7055037774531078586
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &7082468136873644154
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_5
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 7.5
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: 4328c7f85146b46ed8acc4b0d302e452, type: 2}
+    m_Duration: 2.2
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 7082468136873644154}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &7318005262631337552
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &7776983058811372531
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_1
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0.2
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: 16e44baaae8b14e2bbb0531e51673bde, type: 2}
+    m_Duration: 2
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 7776983058811372531}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &7792309730777280020
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &8028311676234667900
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cd92ffc29383742932b27ca414c80f, type: 3}
+  m_Name: SlidePlayableTrack_6
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 10
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000, guid: 505dcf41035f6428d82aedfe346713de, type: 2}
+    m_Duration: 2.7
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 8028311676234667900}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: SlidePlayableAsset
+  m_Markers:
+    m_Objects: []
+--- !u!114 &8116160774006854327
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &8148533343395625912
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
+--- !u!114 &8655135852024362130
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8acd1bef7d684e2287796d9ad20c07b, type: 3}
+  m_Name: SlidePlayableAsset
+  m_EditorClassIdentifier: 
+  _slideData:
+    Frame: 0
+    TexturePath: 
+    Message: 
+    PositionX: 0
+    PositionY: 0
+    MoveSpeedX: 0
+    MoveSpeedY: 0
+    Scale: 0
+    ShowDuration: 0
+    FadeInDuration: 0
+    FadeOutDuration: 0
